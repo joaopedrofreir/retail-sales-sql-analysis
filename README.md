@@ -7,9 +7,9 @@ O objetivo é responder perguntas de negócio a partir dos dados, demonstrando h
 
 ## 🛠 Tecnologias utilizadas
 
-- PostgreSQL
-- SQL
-- Git e GitHub
+- PostgreSQL — banco de dados e execução das queries
+- SQL — limpeza, transformação e análise
+- Git & GitHub — versionamento
 
 ## 📂 Estrutura do projeto
 
@@ -44,5 +44,6 @@ Demonstrar habilidades em:
 
 ## 👤 Autor
 
-João Pedro  
-Projeto desenvolvido para portfólio de Análise de Dados.
+João Pedro Freire Barroso Magalhães
+Estudante de Ciências da Computação
+Estagiário de Inteligência de Mercado
